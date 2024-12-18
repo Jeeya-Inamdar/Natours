@@ -1,7 +1,7 @@
 # Natours 🌲🏞️ 
 Natours is a beautiful and responsive travel website designed to inspire your next outdoor adventure. Explore stunning destinations, detailed tour information, and easy booking options all in one place!
 <p align="center">
-  <a href="https://lakshman-natours.herokuapp.com/"><img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
+  <img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200">
 </p>
 
 <p align="center">
